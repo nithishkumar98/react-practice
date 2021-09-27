@@ -1,6 +1,4 @@
 import React, { useContext } from 'react';
-
-import ComponentC from './ComponentC';
 import { Data } from './ComponentA';
 
 function ComponentC() {
